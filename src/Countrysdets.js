@@ -2,16 +2,6 @@ import React, { Component } from 'react';
 import {Link, } from 'react-router-dom';
 
 class Countrysdets extends Component {
-componentDidMount=()=>{
-
-      // this.setState({
-      //       country:country
-      // })
-}
-
-      showBorders = () => {
-
-      }
 
       render() {
 

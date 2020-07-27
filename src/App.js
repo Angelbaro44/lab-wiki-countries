@@ -1,5 +1,4 @@
 import React, { Component } from 'react';
-import './App.css';
 import { Switch, Route, Link } from 'react-router-dom';
 import countrys from './countries.json';
 import Countrydets from "./Countrysdets"
